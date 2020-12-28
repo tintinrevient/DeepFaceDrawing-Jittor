@@ -59,3 +59,6 @@ If you found this code useful please cite our work as:
         pages = {72:1--72:16},
         number = 4
     }
+    
+## Issues
+* MacOS does not support Jittor: https://github.com/Jittor/jittor/issues/8
