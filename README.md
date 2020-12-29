@@ -62,3 +62,6 @@ If you found this code useful please cite our work as:
     
 ## Issues
 * MacOS does not support Jittor: https://github.com/Jittor/jittor/issues/8
+
+## References
+* http://geometrylearning.com/DeepFaceDrawing/
